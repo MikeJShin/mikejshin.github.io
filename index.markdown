@@ -8,7 +8,11 @@ permalink: /
 nav_order: 1
 ---
 
-### Michael Shin  
-Finance Professor, economist
+Research Interests: Financial economics, learnings from experience, asset pricing,
+household finance
 
-Welcome!  My research explores …  <!-- write anything here -->
+I will be starting as an Assistant Professor in the Finance Department at California 
+State University, Northridge.
+
+My research interests focus on the impact of personal experience on financial decisions
+and limited stock market participation.
