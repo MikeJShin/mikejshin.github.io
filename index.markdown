@@ -8,6 +8,9 @@ permalink: /
 nav_order: 1
 ---
 
+<img src="{{ '/assets/img/Michael_Shin_Headshot.jpg' | relative_url }}"
+     alt="Michael Shin" style="max-width:200px;border-radius:50%">
+
 Research Interests: Financial economics, learnings from experience, asset pricing,
 household finance
 
