@@ -1,0 +1,8 @@
+---
+---                 /* front-matter is mandatory so Jekyll runs Sass */
+
+/* 1 · pull in Minima exactly once */
+@import "minima";
+
+/* 2 · pull in your overrides */
+@import "_overrides";
