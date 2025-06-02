@@ -33,6 +33,13 @@ url: "https://mikejshin.github.io" # the base hostname & protocol for your site,
 github_username:  MikeJShin
 # google_scholar: 
 
+header_pages:
+  - index.markdown        # 1 → Home
+  - _pages/research.md    # 2 → Research
+  - _pages/teaching.md    # 3 → Teaching
+  - _pages/cv.md          # 4 → CV
+  - _pages/contact.md     # 5 → Contact
+
 # Build settings
 #remote_theme: pages-themes/slate@v0.2.0
 #plugins:
