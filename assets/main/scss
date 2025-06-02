@@ -4,11 +4,8 @@
 /* 1 — pull in every rule from Minima first */
 @import "minima";
 
-/* 2 — now add your own tweaks BELOW */
+/* Hide the H1 that Minima injects on the site root */
+h1.post-title:only-child {
+  display: none;
+}
 
-/* hide the H1 that the “page” layout injects on the homepage           */
-/* (body.home is always present at the site root)                       */
-body.home h1.post-title   { display:none; }
-
-/* optional: if you ever switch the front page to layout: home          */
-body.home h1.page-heading { display:none; }
