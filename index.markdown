@@ -6,16 +6,22 @@ layout: page
 title: Home
 permalink: /
 nav_order: 1
+classes: no-title
 ---
-
-<img src="{{ '/assets/img/Michael_Shin_Headshot.JPG' | relative_url }}"
+<div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;">
+  <img src="{{ '/assets/img/Michael_Shin_Headshot.JPG' | relative_url }}"
      alt="Michael Shin" style="max-width:200px;border-radius:50%">
+  
+  <div>
 
-Research Interests: Financial economics, learnings from experience, asset pricing,
-household finance
+  **Research Interests**: Financial economics, learnings from experience, asset pricing,
+  household finance
 
-I will be starting as an Assistant Professor in the Finance Department at California 
-State University, Northridge.
+  I will be starting as an Assistant Professor in the Finance Department at California 
+  State University, Northridge.
 
-My research interests focus on the impact of personal experience on financial decisions
-and limited stock market participation.
+  My research interests focus on the impact of personal experience on financial decisions
+  and limited stock market participation.
+
+  </div>
+</div>
