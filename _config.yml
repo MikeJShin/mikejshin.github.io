@@ -41,10 +41,10 @@ header_pages:
   - _pages/contact.md     # 5 → Contact
 
 # Build settings
-remote_theme: jekyll/minima@main
+#remote_theme: jekyll/minima@main
 #plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
-#theme: minima
+theme: minima
 #plugins:
 # - jekyll-feed
 
