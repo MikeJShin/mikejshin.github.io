@@ -5,6 +5,7 @@
 layout: page
 title: Home
 permalink: /
+id: index-page
 ---
 
 <div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;">
