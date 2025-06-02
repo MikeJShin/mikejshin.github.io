@@ -8,6 +8,7 @@ permalink: /
 nav_order: 1
 classes: no-title
 ---
+
 <div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;">
   <img src="{{ '/assets/img/Michael_Shin_Headshot.JPG' | relative_url }}"
      alt="Michael Shin" style="max-width:200px;border-radius:50%">
