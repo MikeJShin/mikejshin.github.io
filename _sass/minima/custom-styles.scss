@@ -1,10 +1,5 @@
-body::before {
-  content: "✓ custom-styles.scss is loaded";
-  position: fixed;
-  top: 0; left: 0;
-  padding: .2rem .4rem;
-  background: #ffe600;
-  font: 700 12px/1 sans-serif;
-  z-index: 9999;
-}
+/* hide H1 that Minima injects */
+body.home h1.post-title   { display:none; }  /* layout: page */
+body.home h1.page-heading { display:none; }  /* layout: home */
+
 
