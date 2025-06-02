@@ -8,6 +8,12 @@ permalink: /
 nav_order: 1
 ---
 
+layout: page
+title: Research
+permalink: /
+nav_order: 2
+---
+
 <img src="{{ '/assets/img/Michael_Shin_Headshot.JPG' | relative_url }}"
      alt="Michael Shin" style="max-width:200px;border-radius:50%">
 
