@@ -4,7 +4,7 @@
 
 layout: page
 title: Home
-permalink: /home/
+permalink: /
 classes: no-title
 ---
 
