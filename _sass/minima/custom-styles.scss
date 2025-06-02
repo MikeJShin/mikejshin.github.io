@@ -1,3 +1,10 @@
-/* Hide the H1 that Minima injects on the front page only */
-body.home h1.post-title { display:none; }   /* layout: page on / */
-body.layout-home h1.post-title { display:none; } /* layout: home fallback */
+body::before {
+  content: "✓ custom-styles.scss is loaded";
+  position: fixed;
+  top: 0; left: 0;
+  padding: .2rem .4rem;
+  background: #ffe600;
+  font: 700 12px/1 sans-serif;
+  z-index: 9999;
+}
+
